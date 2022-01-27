@@ -5,7 +5,7 @@ from pyrogram import Client, filters
 API_ID = environ.get('API_ID')
 API_HASH = environ.get('API_HASH')
 BOT_TOKEN = environ.get('BOT_TOKEN')
-API_KEY = environ.get('API_KEY')
+API_KEY = environ.get('API_KEY','ccbcafe0f277d55ad19450d4fc148b33ce4ce422')
 SITE_API_URL = environ.get('SITE_API_URL')
 
 bot = Client('ShortLinkBot',
