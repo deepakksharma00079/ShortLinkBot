@@ -5,8 +5,8 @@
         "telegram",
         "gplink"
     ],
-    "website": "https://github.com/CyberBoyAyush/ShortLinkBot",
-    "repository": "https://github.com/CyberBoyAyush/ShortLinkBot",
+    "website": "https://github.com/deepakksharma00079/ShortLinkBot",
+    "repository": "https://github.com/deepakksharma00079/ShortLinkBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token",
